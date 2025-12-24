@@ -1,0 +1,16 @@
+Program 1:
+
+Program ini mengonversi milidetik ke detik dengan rumus sederhana:
+
+· Input: milidetik (ms)
+· Rumus: detik = ms / 1000
+· Output: nilai dalam detik
+
+Program 2:
+
+Program ini menghitung volume tabung dan kerucut, kemudian menampilkan totalnya:
+
+· Volume Tabung: π × r² × tinggi tabung
+· Volume Kerucut: (π × r² × tinggi kerucut) ÷ 3
+· Total Volume: Volume tabung + Volume kerucut
+· Hasil dibulatkan ke bilangan bulat terdekat menggunakan math.Round()
